@@ -12,7 +12,7 @@ On first launch, bring an existing Cadence library over or choose **Find my Musi
 
 ## Automatic updates
 
-Cadence checks this repository when the installed app opens. New versions download, verify, and install before playback starts. Choose **Open current version** to start listening immediately; a failed or slow check also lets the player open normally. Updates downloaded while listening wait until the next launch or **Restart now** in Settings → Updates.
+Cadence opens directly into your library. It checks this repository quietly after the library is ready and downloads verified updates in the background, without a startup popup or interrupting playback. Ready updates install automatically on the next launch. You can also use **Restart now** in Settings → Updates. Automatic checking can be turned off there.
 
 Future versions still need to be built and published here. Cadence then installs them automatically; it does not build source code itself.
 
