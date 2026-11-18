@@ -2,11 +2,11 @@
 
 A Windows music player for your own collection, with MusicBee library import, Last.fm scrobbling, and Discord presence.
 
-**[Download the latest Windows installer](https://github.com/BradChadley/Cadence-Releases/releases/latest/download/Cadence-win-Setup.exe)** · [Release notes](https://github.com/BradChadley/Cadence-Releases/releases)
+**[Download Cadence Installer](https://github.com/BradChadley/Cadence-Releases/releases/latest/download/Cadence-Installer.exe)** · [Release notes](https://github.com/BradChadley/Cadence-Releases/releases)
 
 ## Install
 
-Windows x64; .NET is included. Run the installer for your Windows account. This preview is unsigned, so Windows may show a reputation warning.
+Windows x64; .NET is included. Run Cadence-Installer.exe: it fetches the newest Cadence, checks it against GitHub's checksum and this release's SHA256SUMS.txt, installs it for your Windows account, and offers to remove the old Bradley's Music Tool if you have it. (Cadence-win-Setup.exe on each release is the plain installer it runs, and what updates come through.) This preview is unsigned, so Windows may show a reputation warning.
 
 On first launch, bring an existing Cadence library over or choose **Find my MusicBee library**. Import preserves original added dates, listening history, and supported recent views. MusicBee and music files stay unchanged.
 
